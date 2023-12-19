@@ -60,6 +60,4 @@ Before submitting an issue or a pull request to the project, please take a momen
 
 For support using Chart.js, please post questions with the [`chartjs` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/chartjs).
 
-## License
 
-Chart.js is available under the [MIT license](https://opensource.org/licenses/MIT).
